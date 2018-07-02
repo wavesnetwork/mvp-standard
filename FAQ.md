@@ -5,8 +5,8 @@ The [MedBiquitous Virtual Patient ANSI/MEDBIQ VP.10.1-2010 standard](https://med
 
 Effective VPs are widely recognised to be difficult to create, so the goal of the standard is to enable the exchange of these resources between individuals and systems, allowing wider access to examples of these resources, and to allow educators to share and repurpose resources for their learners. The standard (sometimes known as Medbiq VP or even MVP) was used by the EC-funded [eViP](http://virtualpatients.eu) program to facilitate the development of a shared bank of 340 VPs, and that project contributed to the development of the standard.
 
-##Why do the Virtual Scenarios in the WAVES project use a standard called Virtual Patients?
-Simpley because, in most cases, there is no difference between the two! A Virtual Patient (VP) is simply a Virtual Scenario (VS) that has a setting in a healthcare context. Most VS can be represented using the VP standard.
+## Why do the Virtual Scenarios in the WAVES project use a standard called Virtual Patients?
+Simply because, in most cases, there is no difference between the two! A Virtual Patient (VP) is simply a Virtual Scenario (VS) that has a setting in a healthcare context. Most VS can be represented using the VP standard.
 
 The primary reason why the standard is designed for VPs is that those who developed it were working in medicine and healthcare education, so they chose to use the word "patient". However, it soon became apparent that this technology can be used for more than just healthcare. There are some healthcare-specific elements in the VP standard, but they can simply be omitted when a scenario does not need to use them.
 
@@ -40,7 +40,7 @@ You will need to have access to a VS system, such as OpenLabyrinth or Casus. In 
 
 Please note that you cannot play a case directly from the standardised file.
 
-##What can I expect when I import a VS?
+## What can I expect when I import a VS?
 When you import a VS case into a system, you should not expect it to be fully playable and completely organised in the new system immediately. Some of the system-specific features of a VS case may have been lost as a result of using the standard, and different systems may interpret the standard slightly differently. This is true of all technology standards; imagine the situation when you open a web page in different browsers and they each work slightly differently. Alhough the web page is standardised (using the HTML standard) each of Chrome, Firefox, Safari and Internet Explorer are required to interpret the information, and will likely do so differently. The standard does however ensure that the fundamentals of the information provided remain intact and readable.
 
 When you first import a VS you should try to play it, first to see if it works at all, and then to identify if there are any modifications that need to be made in order for it to make sense in its new setting. These modifications can be made using the authoring tools of the system to which the case was imported, and may include relinking some media files, resetting the starting point of a case, or changing aspects of the scenario to account for any features that are no longer present in the new system.
